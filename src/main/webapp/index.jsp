@@ -20,5 +20,7 @@
 <a href="filterProduct.jsp">bai 7</a>
 <br/>
 <a href="revenueList">bai 8</a>
+<br/>
+<a href="seat">bai 9</a>
 </body>
 </html>
